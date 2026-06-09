@@ -1,6 +1,6 @@
 # GradebookGUI
 
-Starting off as a group project, I solely handled the responsibility of developing the code for this project. My teammates handled the remaining responsibilities such as the Instruction Manual and Presentation.
+Starting off as a group project, I solely handled the responsibility of developing the code for this project. My colleagues handled the remaining responsibilities such as the Instruction Manual and Presentation.
 
 Gradebook.py is the main file. Records.sqlite3 handles all data.
 
